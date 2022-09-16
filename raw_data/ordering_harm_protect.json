@@ -1,0 +1,3851 @@
+{
+  "data_sorted": [
+    [
+      "de.baumann.browser1-2F81B03FE3063219150CBCE4975AF3DE92F4D0C0927527FFADBB20604A7F5071",
+      {
+        "HTTPS default": 1,
+        "HTTPS default_bottom": 0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 1
+      }
+    ],
+    [
+      "com.jt.zdbrowser-4958C2F4279437AE6909A56187C658389A495BEC0121768C8086B76C1C5839B0",
+      {
+        "HTTPS default": 1,
+        "HTTPS default_bottom": 0
+      }
+    ],
+    [
+      "com.sf.lightbrowser-A8597E347B450A9F09C10FD57B28F7C852A51874D614A440592E52956E3D1970",
+      {
+        "HTTPS default": 1,
+        "HTTPS default_bottom": 0
+      }
+    ],
+    [
+      "com.sy.niceserach-1AC527B79F12ADA91B282A4AA898C825C46ED24EF2C0743300FCAC994306E5DE",
+      {
+        "HTTPS default": 1,
+        "HTTPS default_bottom": 0
+      }
+    ],
+    [
+      "com.br.multibrowser-AB95FE8E7A04F4748F6A1AF666A0E3E6DBB2BC394D6664678A49A5E0EB84DD38",
+      {
+        "HTTPS default": 1,
+        "HTTPS default_bottom": 0,
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "com.gy.biyaobrowser-D06F8EFF217F6BEFCFD7D46D2ACD72C1B6A747186FAE30064E241F913BDBEBFF",
+      {
+        "HTTPS default": 1,
+        "HTTPS default_bottom": 0,
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "com.jisu.fastbrowser-1317C90AA827DFD070CA2F0DB3C5A0E2DA36365EFC024E3F35C9013FCE38DE17",
+      {
+        "HTTPS default": 1,
+        "HTTPS default_bottom": 0,
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "com.sj.uabrowser-DF5A2100F93FD7B0F7E77A59D29DA3ABA46CA1F0BC2BBD575621C55A86261EB9",
+      {
+        "HTTPS default": 1,
+        "HTTPS default_bottom": 0,
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "com.stl.flashbrowser-8F707588C369EDC2ED5B3D5AB187F7909BE8AE6487968A82AD3C6E22AE12EBB3",
+      {
+        "HTTPS default": 1,
+        "HTTPS default_bottom": 0,
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "com.sy.nowbrowser-76EC368965A1E8730AE72DFBE3A493A8E4371CAD612E1E4FB5F3DF05FF322D3F",
+      {
+        "HTTPS default": 1,
+        "HTTPS default_bottom": 0,
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "adblocker.lite.browser-ACBC32C9622254703C18BA407A46FBBB70939763456AA33C7F27194CE12BEBB5",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "anyi.browser-740DA5BA42FA4EB0A91C99EF13FAA631F131B555249DEDED7F94C989C4D0E017",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "arun.com.chromer-F630A4B4178635BFAEE5F50CA680C0B2F5791924F5EF5E2E1A5AA4AE17A53624",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "browser173cn.application-F4D895FB7987082652994F0A3334142A049F711864E9C8637F5892AA94EF7626",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "cn.mchina.mbrowser-AC3119BF28006F874CA4AB6D914903D4C31E62E5A800B46CD9A1F597D4AB9078",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "cn.yuyan.android.activity-C39B718F63F7C5013005586742BB54391B6AA9094D58E2BF0773A4B0949EBB11",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ai.browser-E0F088DCCE34F21DD7918D42D5679860C360C28FAD6603A7E124054CE8F54996",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.andooyj.mbrowser-C2854DF006F035C9B2781D39E82259CCB76180003079ECF0C97053DC9F0E7DC0",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.apc.browser-85CDD79E3C44B7387ACBDF2FFD2AABAEB31A0BDB5087C01F7679E60D780E3C7D",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.apc.browser.standard-DB5A348CE270F835C399E8C334F3AAFE22549207D4FB200D4F46C50B9ABE8FDE",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.aplustech.minimalbrowserxfree-3A0C42CADE3A766DD5D09E4C4B527758599AD5B7A2C54D3441851EDC4978F0AC",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.apn.mobile.browser.infosonics-441D5A57458F08B4680D20AF0C7B5219479596286B628EBFEE05005D8EC4AC06",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.apps4mm.browserformm-BDCA7A5F6CA1081571081E5876B0B64CAF9E516CB4640B4CAFD88D3EADF4508A",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.appsverse.photon-5E924247B345D8606993A35DCB7D2E23ECA2F3BD5B667BC4AD26F2D11A051C2F",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.appsverse.photon-EB4EF79272F9AAB9060A4F458F82A6FF5A6A9A534905E193B51F790F119D62E4",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.baidu.browser.hex-160735B30064928D99F309BB28708D19B128DE197A3CF655A780F198ACC274CA",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.baidu.browser.inter.mini-F19C9AE852F0CACAE7DDB691EDF6DF5936C57A0242D193CCA563D10C45E68D9E",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.brave.browser-0F072702DAECEB7AD85C3BDA6E3B4CBB9027BE44D97E54EC709D8457E8E17316",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.brave.browser-BE0E76BCBAAAADD3D1318264BA8A36CE09DD484F9B4CFA27E6287B61034F9E61",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.browser.incognito-F004B455BB4AC1EF1907CFC8D71DF7B8E488C0794D3349086FA09F192BBEE9E0",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.browser.indian-852123BFE05DC56B5EE561F4FD8461AFBB400DB509013458B1ECC023FE42A946",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.browser.yo.indian-EABC489C4920864552980E03D6E2346A92B666C02A315EC765F47A2B4EEBC57B",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.bu88.topbrowser-26262E7F3FB63A0966A015ED550E0A3DEA6B4A5A0892B4A6B41A828B71903492",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.campustage.base-FD4A2E79163DC3FA9511FD044B6F6550CCFEAABA464E1DC0F7C7822D6ABE9DC6",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.cnisg.wukong-6558879C7A8D9EEC23424A09BFF0EE71DA29C7CE7C1F1DEA41619A03B1F31813",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.comet-018F27563BB481EA1D54CFEC640DC36F93D45DBA487798D42E36DC2D97051E29",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.cool.coolbrowser-3D8699F527ADE6A028150BFCA9ED83117E2075BA26A96F4F477752377EAD5253",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.crowbar.beaverlite-300642610078001A1CF4CFAD7CAEED36A0FBC4A9C066D7E1F90BE312B91FEB47",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.dbsfsdf.mjkhnkj-25DBF38E8BDA7ABBC5E14D5C9C0C6560EC31E1FE01E302581A17C0598798A5D8",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.dijiebrowser-22006778CE81A9FABF58A1176D05D9CD8FBA7AA31586CD0145D847D4F0AACC60",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.dolphin.browser.zero-B6FC55EC4B8DBFA10ADEEB733FEAF4A30A8B81655537CDE24F7F93DDE7D7084C",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.dropletapps.browser-CD6EA71D16E722594347B966B997151553B90E6D298BE69FDE6191F1669BFD8F",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ds.greenbrowser-2523372F675793170984D77719874FEFBFC823858AE5219A8A69EB9768D2563E",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.duckduckgo.mobile.android-B57416A8F1352E9624410DD6E8CB1182AEDD315D415309A032F67F543FE7FBAB",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.eagle.smart.browser.free.browsing.fast.privacy.browse-0F7CAF0DC39BE1AC7F9AD8A50D9C26DD68FA14B825E384E4C8B890DD29E8ACC0",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.eagle.web.browser.internet.privacy.browser-C1FD91AA6A73C4E2FCC19722B6CF298AA61095A02A2D024868A1911E954112D7",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.estmob.android.flipbrowser-011B058C839640A00420F6F7E82C58139DB26BB12AE022BB534A07ECCDD4CEFF",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.exsoul-6769002D2769A1649BCEE86CDD500FF6D413FAE4E4127EEB8C99BF554964E215",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.flyperinc.flyperlink-8F3240B0FEB01A67C927AC3749CA6D6EC08836C89C783F6B11CB670AA89EDC87",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.gaosu.liulanqi-8685F7639F370C2C9A15FDA4DBE6CF779AEF449A3C3BF0CE333392A3DA704060",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.gaosullq-03375E8C260BFBB84485A12923A81328728DA64007FF165D000618F8C03C1726",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ghostery.android.ghostery-A89B8A7EA34523D0E0D0F50307B22709428DA9A89866E6A07C761C9F845E4B22",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.gqhd.browser.focus-CE360BEA20631F54D89EDA5AE7BF3E76D43E3A978FC36B51F48D5FEBCE87B9B4",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.granitamalta.cloudbrowser-BD7CE67E4755F9736AD5AA13E1DC70E931C5D2E213CF5C8E8302EDF23813C86C",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ilegendsoft.mercury-D51D169EDC00E6CD74C75E02074C467F8340D3609D5386DEB8939CC6962365BA",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.jelly_browser-C1F94CF15A0FD581446823138FC324AE1082AE9E4918A4B5ED214E4E987F60F6",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.jike.browser-8A8A81B88D7DD08F81B6CB569FB3AD77517D6FEC19B579A6A933292783C09B53",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.jike.goddess-8F4002A445DF38AC3CC6DB81641D0CE760DECB176B367F4E70294BC536EFFDDA",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.jisu.browser-56DFAAA70DF991479F92649965C78CEB750550033A76854909BC37E1EED76F4D",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.jiubang.browser-5EF57C4303028F8ABBD2FB07A77F4CE1686AF1D10FA908B2718A9D410AB63F84",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.kodemuse.droid.app.safemobilebrowser.entry.safemobilebrowser-7FA2C9484FDD60AE394EA2CBA7A6991FE0A2760A2D2466705E7DA92F81CD68E3",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.kuaiyin.llq.browser-4CA4D3E56EA6B7994E8313658E9EC110596EBFF60F907AF4E171D0102E765FA0",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.kuto.browser-C0A000355ED631F8E104EC567FC72F0984B13EF1243955A576493F13CFF4CA3E",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.lechneralexander.privatebrowser-6A51E90F88C323F0DCE535E86C60ADB27B5B6282A7A383FCD77657E6632CD157",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.missuteam.android.browserx-179CE0EB926847FC11201D3F344738BBA4F603CDF1D0ADFCE9C2929809BD402C",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.mmbox.browser800-C4B58617E4ACEB5C19B616C2D466BB2102F41673227761F6F5FDC9E5F276F3C2",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.mmbox.xbrowser-A6D51B838E0586ADFA88D4BA365F90236472D8CBBA1B495A74EE1CD30D1A712C",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.mmbox.xbrowser.gp-EBD1733FB2907B30EAD772E1D895DD81BFAE593543342E67A13B3575E3427045",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.mutiway.browser-63A6D8D09E3FB00CBB97CA6C4FA87AF8FFB3A6E7C35C36DEA8FC7252AA20BFBE",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.mx.browser.free.mx100000004981-5ADFACEBE4AE1DA17DA0534C9688585054F0689225DB436D78D7E8E47F1294F6",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.mx.browser.tablet-6720A75B7AF15C03DAE81B4B96C578968F7D80DDD30D3DB16CC328ECD31AE58C",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ninesky.browser-57F40F7355E3106D67FA34B2BB00E041B42AD20BAF01D9846A8969919DA558C5",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.oh.brop-9981C7D544CEEDEAFC41EDED9B0A4E5C70055948CC71540764A9D35E3B9795F8",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.one.android.browser-12A90813C872524DCA477E56C340873B965DE762081EDF24C90CFCCCA0F891A8",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.oryon.browser-3F9B10B8534EC41CA215B6EEDF058DD4C591B552B0702970235564FC9862851E",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.osiris.browser-7DB1A6AD10D62898A63E03539FE5047C2BF699DE81F517D39F2B4C370AE53F08",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.oupeng.browser_wcup-5A4B5277FA2B21D426EBBD9AC943E8CC114CA88E062188EEAED12A727088647F",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.outcoder.browser-BF14002D97AA41A74963694F231EBAB6D452CB9C4B2A9F18371DF25CC9AD1517",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.pahans.siyalu-1F30E74FF727A98A9206A757FFB368100E584FD87A1BB18AF53FAA967F5E5F03",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.pd.browser-4C93F7E58F3E904873A98F87F5C0B3B71415B2578D392AC044F3A5DD9FEF661E",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.powerpoint45.lucidbrowser-C6FF2FACB6237A333099A444712E807993049A29FAB4DD5967E3F87CF3B8B25A",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.prize.browser-6A724BBDB49181CCF4D0E78403639DD8CD66095635801F0FA00578D460793CC5",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.qihoo.haosou-F8C8582AEEC19B6AC0F218BB18170A3A0BAC3B47A888C2A8473AD8FA55B5C72E",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.qk.search.browser-725395A49D0963D2E88FE2AB6DD7CD7801E7A201B544FA132E3C82BF561B81A2",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.security.browser.cool-8F38590275B0D76A2C14A9E816EF9229D34232AD3A643386A210DEB9F812245A",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.security.browser.xinj-210551914DF8CFBB21E077947B02A0A4644AB1F49F15A1CA043EB5DEFA124AE0",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.shen.webview-16698064D5E6FB6285E44ED67DB47BC738714550F45413DBD96CFEC2D3265EEB",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.sibimobilelab.amazebrowser-F3ABAF4BC1907FA06598F5F277DB25C6AC784202B3E0CEA43CED0CC127779745",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.skyfire.browser-898CF521044ECD4A68F286058C215775BA392E4FDBD53F1385FCD49ED48814BB",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.spirit.browser-1F32D70417839D2C3D26678360C6BD81E92703B1072F20DA4A90F2455C1D68D9",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.sth-F3BA68A8D44582247DFFF244BCE558E14A341CA9E2D29D8D60C66D1873711B9C",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.tankka.cn-FD27FA386297AF6D996F2B9A6D1E715C10E8D36E9EF9921366EB24C9C35C9C86",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.tenta.android-FADDFA19C1C12FC3EC053B0190F194C9C85238312088364C561161CFA4336BC2",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ti_ding.browser-D9A3D12922DD4192C9EB4020B4E56B388565C2E0FF033947CA01A1B4D06BCB72",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.transectech.lark-5362CBBC7A866748D95C66554B85ADC4F7F1340550FD2F141D66820A8A4D59C5",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.veryapps.browserpad.brs360-15486F70F10550FBDF0743D1011443B11C0C986B8F040FFC83CF82C327293DC5",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.veryapps.browserpad.guide-90D9504D4DFC59BB65E4BC3459DE517838D3F055D09BFD0F9990DD7499A1A569",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.veryapps.mobile.activity-C55AC5FFEF3A0E7B8E08861BF52EB6C0758CCD3166698F7A54A4F4A58635436E",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.wangluoyijia.browser-385CBA14892A58B340EA58D6202DF361452C8DC31EBE6277377826576750DE0F",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.webroot.secureweb-E23DB5E153187C4A7057BDAF34ADF0DF14633C7040F24372E9DDCBD33C540A1E",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.webs.enterprisedoor.crocbrowser-3BE524500FC59216A12E22695CC7244298A8DA1E7612871AF95D4FB12870045A",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.websearch.browser-442BEED24D4B329DAC0A9B4FEDB04D6027751F209A7BEDF1CBB0F7CE7C77F1E0",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.weejim.app.lynx-8E0CA078683B3AA6D9839DB2912DC3491020588E5A537D2834A28C661AECA0CA",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.wuzhoubrowser-16F9C8439854B9B9B7F4055EF59DB040A2D4C8E36E85E87D489CA04BC7A980A7",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.x.phone-2EABDD89F12796627B0D52D844B5E58515732D395A6B704BF169F559F47496E0",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.xptool.browser-161E4C82C4D6F8B87D1631A158D1C256FD015AC44D5750768CCC0FA40EB573C5",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.youliao.browser-CB6E51B3D1A1A3A1E48EEF52A01297A04FEACD1572AD45CBF7E6843E874A5691",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.yuedong.browser-79B939AEFDA8194B459260F6223BD26DE54D6E2908764E56AE74A026115948F0",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.z28j.feel-B4C24BADB5D18028A2FDBFCAA91F6BF3CAF1CC148E8E43931689927AF24683A8",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "cstdr.ningningcat-BA8729AD1237BF7F3856D2994959A1DEF2F8B799A856E62DAD50E77A0C292634",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "droidmate.browser-7C6DB184D71BB287011B6A431DB6FC609A51D8B8F095A24E44B71D0EEFC33C4B",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "fast.private.secure.browser-0E88050B6E5D82C6A3663634E7BC600FC882EFD61B36032250BC8CC4585E4E8A",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "federico.amura.bubblebrowser-A1AE60941AC8BF625C1083557CCFD3BCB66125A28D175C40BD083E04E3E47126",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "haomiao.browser.skydog-64BD37B34068AE88C6D72E605858ED5003E657888314F6E9851BA9BF6D72A147",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "internetm.explore.browser-662348648F77F1A846D0A1BDEEC1AA22B942ABDFD2E132AACE1E6F93586FB579",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "io.chengzi.browser-306876C1EBE18D5F99676525E264EDDE7A4B27B8AE41BF8C54293D0502F9256F",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "io.junyue.browser-03A37BB22D1AA28F7A55B310C5C0824EA4A4022E04503E64F2894AFC8B34EC2C",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "iron.web.jalepano.browser-B0D37D509E2D6349140639161E86380A9F7A11DE3D00E2865EEC8F1BF86ABB21",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "jp.hazuki.yuzubrowser-A3B368F044B6920F250008F0369C0114C6047EF6B0BC88846C9D4EF32A5396EB",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "just.browser-74884C8089A4F501A8E45F317D6C2B5D82B67BAAB014E6114785014D051B8FF7",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "mark.via.gp-B086A1FFECB5381333C61118BDB37B587D4671F559DD8F0E69FB9722DBB99360",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "mobi.mgeek.TunnyBrowser-E997B9A7992AA246FB1A8CC4BB98C8033BDF5D4AF1C513B7FD170471C610B4EB",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "net.fast.web.browser-2587792D2CF111A4A3B57798513136A02BF0AB6D9ED2F647444D24E07A218090",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "net.onecook.browser-AF4D3E9EBC7AF07DAA0428E9E38C116A95383C169B06689265A7BC9F523FB424",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "net.scweeny.CS.browser.dev-1B3AB3F55F7F3F009007396D21AE003C05009FC88E77229C084CCA56DEBED1A7",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "nu.tommie.inbrowser.beta-F890E904DF2625AD0884B00E671145A46EA75D8D79C492F5C7B89D8A188B602A",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "org.easyweb.browser-C06516DB40341DA9DA0CF29DAAA4E74AF861CA41B052D77D4C392BEF2D64B0E1",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "org.graycatbrower-519522C63C327E02876B5AD58743034A90DEA19C2604C019F42202F74CAD4407",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "org.innocube.browsers.mandalay-0C1CBD03308DB137CAE2554BE87E34987838EA612493AC5379CC93930EE7A6B9",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "org.v2msn-89F095734CEFE37CDECCEB8435C4F9507E9920AA544CD3DD3300E228ADAE0828",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "org.wisebrowser-BB2D08774A5851D221F1FC6572FDFA26994CDFE3CFF714B378BE8D97EC7E1295",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "privacy.explorer.fast.safe.browser-C01A94D040A4EB65CAD3DF066F897E51F6423E60888038A3077C3027A4107220",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "secure.explorer.web.browser-59C0351C3C94015E38ED91B65F88046E34D4021AA357D663FC799250D53C2AF9",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "sogou.mobile.explorer.speed-B20777E6DF929075DBDBAC223FD8277B205E67C2E6173BE3F61D3CDE114D1698",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "vn.wada.browser-9C801F4D9C1B94A292E48131E2BAD09BA165F4A0114DC0E5F58DEEB83805E9AA",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "work.ionut.browser-DDD0B14BFC93D74DC749C4216BA7AAA0C05E2FD2DB345187EF4D1808D32C67B8",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.baidu.hao123-C677FA4CF30E65FC8F49D8395EA44857F37548920AAF96929C26682F1A8F1E7B",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "co.zenbrowser-1DC64CB5C0D787CB8D1C3BC51B5B706B3691AFEA43DECEF7D0F1ABB34983AA43",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "com.apusapps.browser-CB2BF0BC298CCB2F44EE6D1EF033CB1E4C60D8348E0B3D34F48DDFE8D8D919E7",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "com.estrongs.android.pop-34EEE067D21A402A1B30A0D716A7DAFBE4048791C3AA77B25BDD4E592832DDAE",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "com.nationaledtech.spinbrowser-4D04885381F539CA15DCE5C747C82C565879D25D45D6B375860119F8079BFC8F",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "org.mozilla.firefox-A18DDB484737DF0724AA1E16D7BFD63F28A44F172284F6027BE3A7A3BF2B7BC2",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "org.mozilla.firefox-CC42E82BC8354DDABB52A3EAC896A2345C447E271A88C9B1CE2FBEC0E8BF15C3",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "org.mozilla.firefox_beta-A01774C812D5F94F15138E57D4B2D7A246D829641E2297847506BF1DE3096628",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "org.mozilla.firefox_beta-B73D32C9026CF0D647899915966D1FB5327D7F832A00F469258D789303BA264F",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "com.guangsu.browser-0ED0D2C2D50ED93A3C1007D40F7E64FE30ED3A41DFC85768D5962A0D8F802B37",
+      {
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "explore.web.browser-4B3DB783B68982F676A0093F4CFFAA0A7A102C66F03E9CEED59F384FCD60AFE6",
+      {
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "com.zhijianzhuoyue.wzdq-294124EBDEA8292F61A84A24FF818713451FE701370806FC708F1F92592077D4",
+      {
+        "PII Exposure": -0.2857142857142857,
+        "PII Exposure_bottom": 0
+      }
+    ],
+    [
+      "acr.browser.lightningq16w-A1504CB1678DE34C9673C032C963F338136AFED9980B2E8A83870DC2EF85B93B",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "browser.explore.fast.secure-9F6A21B63552B994A0A0BB32AF0353899E10124959038584CA9B3F65906B1802",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.access_company.android.nflifebrowser.lite-08CBF0CE97987F7862700C4DAF70423125B37532F4E3177962E8ACF25FC03B10",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.android.ch.browser-84BCAE7FF86C8395A9032406357022FBCCEE8CF49FABAAD6CE4B02DD9C2B1C98",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.app.browserforandroidphoneapp-5557BC117D809EE70BEC2C4F76460A57F7872CB682A437B32D9EE69526B8A273",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.app.vvfullscreendesktopwebbrowserapp-A5E7AEFEF1C1FE7FB5208258D9668D45625ABA0123A4E316C8C8D6EC2DAEFCE7",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.autoapp.dsbrowser-A62F96C8F3DED8445F14C1018D2806491000BF08460A2C0263187EDA0CB6A5E8",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.baidu.browser.apps-E4F9D07AF9EAD06CAF06E180FA605EF6B98793B7C90750BDFE88D5AD1B2B8A2C",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.baidu.browser.inter-3BACD792F03FEB8E30BCF3FA7A88508C225BB1BCD35ABE3ED6A891CB89F188DD",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.baidu.searchbox-842B426B6D1FA6AAB0948802A882FDE531AA384F316BC791243CCE4CE48465D6",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.browser.penguin-7F5206B9EBCDF529F14FB2EC6EF21D2C460BA7110195AAE429A0692C3838C5ED",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.cyngn.browser-3B653114A01DDC0137772345C1649FDE95202D47AB12A4C3CF31BD911B1D425B",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.cys.mars.browser-564D1E9B9FF3F613DF21D2D2A3888288EB43AB8BA3BD8DC627709DFAF8EBE05C",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.dolphin.browser.express.web-7714F0CC6F2D42072F8B018AE56A51918A657D0698007FFC1E2A1447DB49F6E7",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.eapps.falconbrowser-5FF94C5AA797CE3B3AA52D39235FF792A1439761B598EFEB833A87184C597078",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.fevdev.nakedbrowser-02F1277AB14B9496DC4F210B2D384FF86D3C89C170E369C95FF4689D16F4555E",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.fevdev.nakedbrowserlts-852A54808133E3DB93039972B29895BF8673B9666047050056EDAE5C9CF161F6",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.firemonkeybrowser-6A282CFDBB133E625214B7CF3CD42C5F631514F5BDFDE0EDC78AAF7CCE8C14F3",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.flynx-F77FA2E3C6E4D5C245BF27E8FB9FA931979F49CA83674B986E1EB2997795715C",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.gurry.kvbrowser-30C050DB989287C1601BEE1C6A54EBD46CE7E1932C92EFC561C872636029EC6B",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.hsv.freeadblockerbrowser-C300DC95EF523C3CA14A9AABFCC5676E4A1B8DADE6CA286A901D7E6D62984D80",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.hsv.powerbrowser-0571C789CE30DA491D4DC74346B7190F1BAC1CEDC78B5672340CEA7FC0DEA0CB",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.hy.safa-65DD5E744EC5AE9868EC3351F7F335C2338608BE40FD086E67BD93E819A59BE8",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.imyune.browser-FD437194ECBEC7D77EE0CACC268F6D8BDF53AB3218016429C533E20AFA012E55",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.majeur.browser-B5008FA9BA1520B85BECC394699253D915F7FDA3D0A7B68665A7F378D4AFBE9F",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.mebrowser.webapp-50A43822965368CEA494354DFE6400A962566F986CE79140BA1D66ECB270AF14",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": 0
+      }
+    ],
+    [
+      "com.mivamobi-18EE606F6FEF077FC4CA5DD5DA5DB7AA6C66DB1732C2E521DDB78D0E65BB4F55",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.mokee.yubrowser-F76C7BFA8CC830FAA9DCF9142B588574F3C4114D14A9F36B6AD73F9820730A56",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.mx.browser.free.mx200000015313-29C11C4757FE354E477E9E5D2E445E9AE8371D1F13B869C702F85252A857F4D1",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.nod.browser-FF3103099CEAB8590DFAA63348425270B3CF8556261CA9087D2AB1B4D8FD5A4F",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.oLight.browser-AEEA2D9C83DBB1AE90A6972280441DCAB1B56A31B04478F651281704F98A9BDF",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.opus.browser-82B197AE11382CCE51E438B3755CDF328FF00F5134F3BE7363FAB99E3D28057E",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.saschaha.browser-5602CCC3F261BB218AD9555480D75BC8EC4D211073BAC8998783A7FD65A8DB89",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.swe.atego.browser-937B0A7F824A88CB95AC07763DD35739BF508FE7E6C1EDE62CED7031D7984638",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.tiantianmini.android.browser-0AF7CC8178543250949DAF8341B37C851CA1E681D1093DC202944C299D3F1847",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.timefly.browser-2E23EEFECB87D1FC20BC279A5B46F9CF32190F8B5672CDCB4D1C9E9F7F1CD669",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.trusteer.securebrowser.trusteer-F89BE6F552753F7A838D834BE6228AE41F317BF95ECA74FE0F5632AD70395C0C",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.ume.browser.northamerica-4500C5D66BD8CB21477FB06B308AA3F28B7D41C363C3E37CCDD37C9A9A3C270E",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.w3engineers.banglabrowser-7A1E432A732AD3221958CD154E07815D030DE1059F965E806BFB7FC8FA9D4F8C",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.yuedong.browser-5A5DF941DBC3820CBF9DCD92F60D3CAC1667041C0BA15FC2F327B21219F8C28A",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "communication.internet.web.browser-08AFA17379FF836EB666CC3037C77DB8A3519B0759C32474C66A7D31BA204D34",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "eu.depa.browsing.stack-B79689B7257EB2F2941C4D4EF3E1FA4C997B7F267B17E94E0E7CAEB61002F6DE",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "fast.explorer.web.browser-550CD4B4D08AFD8FA37747B458FBD880507809BBAE65F8812A7ECE23012E4DA6",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "fyi.start.web.browser-0F82306A562D0D5E737DAD6EA35D35619F2F809095508DE90AE589680335AF6A",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "iron.web.jalepano.browser-F3881CB189C0FC513A7CA8B23EBE9F1B41D19B8F5916B1F54CBB0781F0BBF613",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "jp.co.lunascape.android.ilunascape-B51509304406CC72017C08480C1D65274CF27D9F2223B42E6D2493A0593734B3",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "jp.ddo.pigsty.HabitBrowser-5898435223BD80952249B06BA777137C517A5A5659104FEFB5B4537842522824",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "jp.ddo.pigsty.Habit_Browser-555D8131BA22508649DF0824144D1F32A9F6F72DA414FB0F3FD59118B1995307",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "king.ie.lee-84348297283DBD364B176C26F73D0E3F7891F340AC3FA64A26F69EC2D0286F79",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "lk.bhasha.sett-32BB68BEBE0B915D959C8EE2C6C8A415E882364E85D7FB10EE4207CF18C7E1D1",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "lk.bhasha.sett.bengali-589B58FA1D6226F590A37D064C8025B1DD6F18A1338B7D45B575291AADE77EED",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "nextapp.atlas-CA19F745CE8C3481381BE0578F757133E2820B842DE0600830C5720A8AFC7156",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "org.easyweb.browser-C770AB1892E67EF862322C787F8462C1634097FBADCDC39C5642D2BD5C2DE7F7",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "org.haiyang-28849230AE766CCC613571CB12820A9CA616C998C0469380F5ADC21830EDCD0A",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "org.iron.srware-4CCEE8A9AE467753A857F036A921D20BDDD673EA98C2553F9B9A08941E649192",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "org.lilo.browser-8FC56C62D73340DFB70A9DC892D8A80BF12C417CA102F386D72F9D881BA91DC1",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "singh.narendra.webbrowser-A91C5A9B73261A90E28808DFBD1BF246024051D4D76D602EBFFD73BBC054C3B9",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "sui.mRelease-812CAA50E5EBA2E225FBED3807CD3D74CAFE75A1BDC2969EEC250D3C756EB10E",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "tdt.suma.browser.web.explor-FF17F367FAAE64E341FDF93ECE8A685AFBB6395F3E8C720AA8816C361D7F312E",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": 0
+      }
+    ],
+    [
+      "web.internet.explorer.browser-CCCC3335875ED6267564FCF95B0ECECF920974E7A4F98F599833CDE8097F51DD",
+      {
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.baidu.browser.apps-1A72AE95EE169BF37CD298183C9EB1139297087673AA17EC6E88419F32238564",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.baidu.browser.apps-66E9A1BC800E25D83B5FF4581D4404E14C01903930E27AE597E1D8331A8C5692",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.baidu.browser.hex-25548F4794A79DAD8CB351B12DB58D7D6225B296DF20666B33FE2E5B21831F04",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.fax.zdllq-D0EEF4C76EA61484750B8401FFC3272D5F443D319F51622CCBF03C4DE858A613",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.linkbubble.playstore-BC630C7B882ADE8F1E19245B43BF8A9F1CC32574BDDE6CB11870D6F0FACBA5E3",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.qwh.grapebrowser-8136BD1C31CCD3583EC32AC97DCFC002A10D07A248034787C0B1CA2BC44BA990",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.tengu.explorer-4F7963EC5B2D93630B012E5E0FB5DAA897D315B96F738434C04C880575206099",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ww.browser-77F21BA4F4809514F0C45E93E4EF6B0D503C9B9B85B35FB27DB5CC58B5A4FED3",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "jp.co.fenrir.android.sleipnir_test-BE87CC01896CF3F6A917F98ADEC15532A51373F637B7ABC456B7160807CDB51F",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "apps.liondev.pricvybrowser-158C710A396C13565D15DFC29474B3297900EBFEE3763CC490F4CE3D2FDDE4F5",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.apn.mobile.browser.multilaser-5ADB471B624E4BB38ED968B0A819470F6F227879D04C2E0BB70879A64CD977BA",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.boatbrowser.free-F729E23C04594C1E016F1C42CF6FEEDC4F3098FED34320A83DFE590C7309DA31",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.boatgo.browser-D27F33CC8A84260B503CA7899C306AEC11650E219B5F820F1E1D12EC9BB573E6",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.cliqz.browser-1B85733650AEAA60BD93371E4561E4A1C31C5D1D85C5EAFF4B99CBB0ECB45A20",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.cmcm.armorfly-A3DEEFBC13842AC85C2F5172D32F4A0275AC8FFB0CA4696747AE448A4FCAEA4F",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.dolphin.browser.android.jp-09D0389157B6B0D628D587B74BE255B9EB834F0D1A0AE9600D24C1DA6D7DC600",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.explore.web.browser-47F9E5C014AEA12D3EFB53854021D62188B65C097E0088246C7FFB26E43EEA66",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.hoangcaodev.smartbrowser-34EFEF44CA1F1D35FDDD4BE6BC693D946CBEAD760C981E05C2C540D19B3BE852",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.incognito.browser-CB48740C97170C4579F381950243A2B9A4E760111A610D3E4B77392896B2E8E3",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.inoccreativestudio.incognito.inbrowser.privatebrowser-E04D715DD4D9D858E8E4F1A05458B428F2B78D154E6AA7FBEE95F1B2A5159266",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.internet.browser.innovative-3AE614C9FC62E82E9622F682DC4466D3EB12076497B31414537AD8F02474D433",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.izzld.extbrowser.gplayone-185D7BD3C407C08227BB06252A91E3AC2466FF0E9933CB6BFF61D8F9B59B9611",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.kaweapp.webexplorer-ABC1A9D7BFBF6926E4DF52EA972C45211C6CE00E7965410795512800C28A4360",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.keepsolid.privatebrowser-7D38231E43EC45DF8907B9E82223D7BBEA4321822F01C35AC7CF96E695DEB840",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.mmbox.xbrowser.pro-E33470B091FD458D32776EA87DAEB3854268D71F1DEE650C59EF24DE3BE7B3E6",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.mobiu.browser-97F7E87688BCE47E8EE4AB02BAF1C27EC377EF4756F161DA990F7CF4359C3634",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.onedepth.search-5436B1AAFCD43D80828B84FE94A3FAD6835A2CAC7DF74023FFB147A200036BAD",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.speedupbrowser4g5g-2C2B7DB42C58994297BA0DB1B2788246514FAB35C0970508E2BD21899F34795D",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.technosoft.web.browser.internet.privacy.browser-4A137A7C806839B85957027803DFB3E4B355915B5E86438CF42A76006D4C8D60",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.transsion.phoenix-503FB729B2EA107C9CFD26D323A0583FDE43F6BB37665624AA9EF9A41BFBE882",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ume.browser.bose-2F920D507ACD2F80B2BA4A7F82B2A07759F950D034C90F5E60F32341F38DAAE1",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ume.browser.international-0BECE048CFEFDDAC775E18714D6BEE146CA4200BC622C6743861E2B2B1648F85",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ume.browser.newage-899C8C958E79574F2A8323F717DD66FEEDE5FDE2028AD0B1577F68BABB21A189",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.videoplayer.download.tube-AACE1E3B60EB6B6D2095C5F88A9A275806D529556FAB08D742F30B2BD1213D50",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ww4GFastSpeedBrowser-39A1031A35D9B42864EFB26085B91C1706ED36442CC0445507C825C275453E93",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "cybersky.snapsearch-4149651394181D4BDA46AC5746A5AAA5B8EB075CD0AF94E10E3537A7718C5514",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "cz.seznam.sbrowser-C3E49DD930D444F9949E9E8DE1CE60AF3E627986D9881FEC6C8EAD0BF470EDCD",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "cz.seznam.sbrowser-C5F5203348F8B03403FE7CD5ABC6E74789825EEF777C511BD48E97D803763E17",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "dotc.mobi.swift.browser-F130F46ED608C4A1D79FF25251EE72A486C9CF239EE58682415D8D32470D21DE",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "explore.web.browser-7413684783057F64CAD757F0F6974DEE598C22E1A00B30D7D433639A60E5DAA3",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "jp.jig.product.browser_plus-667B1930480FCA558A041A46A533F213B7608435C1E34CBE79F6E2B93B2A4B4D",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "netexplore.internetweb.browser4g-183A286CD2CA935E6313A287BC76F3BAD15DFBEF82C27A6B2000F33CBB0313CD",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "org.browser.wecriptbrowser-EDD3970B7C41A0924E49E4CF8B4EC7E466D009A9E2CAE39A2E50D328239180A9",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "org.mozilla.focus-D7099E711440AB2B25A25B9DCFB1BA79B5443A1163EEC40D8AED66A092600552",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "quick.browser.secure-34E167B14322CBFDA35DAAC791BD7AA6778E9DC01199C1E3FF8436B99FF2BB35",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.hawk.android.browser-F30C37A17B5E5143D73930600E2BBF2212B5B5E958CC83EACDDF726DC60B20AE",
+      {
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.internetexplorer.browser.web-5629C5F43138F0A201175D93100A8957CE39D4B9591F2418A419BEE330E90C25",
+      {
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.mi.globalbrowser.mini-C52B6AD5A64A439ADD94BDF19BAFCF4D9280B620767FDC581E07891C95A902A0",
+      {
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.vc.browser-803EE69B0FCE06E51B4A86C5149B3A14E6150BDCEA373174BD616EE495FDECE0",
+      {
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "galaxy.browser.gb.free-D128B870FED5DE332D85F0A8B67BF8C9FBC7482E3019D107FC24C3DD2DB485EE",
+      {
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.quqi.browser-A57D4882DB759672CD3A8FF4B3586943B2AC793243FDC6EDA184AB5812E3AB51",
+      {
+        "PII Exposure": -0.2,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.cy.browser-C5FC110391BE814141D3213D080266B0E7F85EAEA76D5FD402CB4B25ADB9AF7F",
+      {
+        "PII Exposure": -0.22857142857142856,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.venus.browser-CD656DE1C2924D547168252CE589E3608D31AA0B683C2E4CC2AC71252B0DE7D3",
+      {
+        "PII Exposure": -0.22857142857142856,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.liulanqi1217.app-37487A688E3E990E4D09FF31C31946D32ACE5753744E7E8B0B645EC4C1FC4875",
+      {
+        "PII Exposure": -0.34285714285714286,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.liulanqi1217.app-A64FF7077A8F5D9EFA4C0C2500A46CE9EC2F513E7117CC397B46B9BFC0801DAD",
+      {
+        "PII Exposure": -0.34285714285714286,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.apusapps.browser.turbo-E53936BB77DCC1D90EE1300388D6201833816E28EC31F6C369A3F49FCC0A8DF2",
+      {
+        "History Leak": -0.5384615384615384,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.dingzai.browser-B972E4762143B402071E12A307CD46CBD51FAE6996219B94F2383963F937C438",
+      {
+        "History Leak": -0.7692307692307693,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.indian.browser.fast.web.browsing.free-26D2691AEF5E26BD67535293DE4D49D9F25699BD55A41A3C84E56196127F251F",
+      {
+        "History Leak": -0.9166666666666666,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.app.fastminibrowser-4ECDADCA52ACA31E31514AD4036DB908EEF32B7A0E511F9CE49F0079EE0006A6",
+      {
+        "History Leak": -0.9230769230769231,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ninesky.browsercn-C930E2E057FE9504F91AE5CB19223FFC8158D4693C040F364679AD0F08952A79",
+      {
+        "History Leak": -0.9230769230769231,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "acr.browser.barebones-9193646083DD37FD58DF1CC6441A1116042C2406D83C91062533E1FFDE0A9A65",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "acr.browser.barebones-E9ADD69355804A42AD4D6BBCFE30E103F840103CE359647B30ECA27DA1B33DDB",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "acr.browser.butterfly-54C627ECC93DA1FF9760171AAFB0ED3FD1BD3611A476A6B6B8A592D326CBE7DC",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "acr.browser.hyllqj-6F8BE8E45CDA57F909EE3200C9D6E5DE14E401FA67A21DB82E4BB4CDC2FD6A2E",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "acr.browser.spartancompany-6244276D806CE85B70CE4704FB82B03EEFA05018490097AD126C075989E7B6A8",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "app.BroAct.devhy-454BE977EDE2F6AA798DC776902B6E4CD93241DED8E0C8EB17C528627CA7785C",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "browser.sked.polyhedron-EEF788A1AC250DD8652D0B6E03B7F3D71A5DAEEA3C368E38368F22BA1D767299",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "co.zew.deebrowser-E98D963D92DB24BC818276E4659DE20AC791D05B5823A50203D9C580FE56C5D1",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.adrenalinebrowser.browser-AB2657E4EA73C3E9F82BDA89235D8A6CF0EEEB50F229BF752BFC72C003B50ABC",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.bloggingfeed.omgbrowserbasic-FF1B927C88890BDEAF52A6783FC5E929426AD4F6EE7D281BB7FA297CB96E153F",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.cloudacl-FAB73B29AD3913E82605BB225E84E670633740E980E538255E86C2B782A34D96",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.decad3nce.hoverbrowser-41A59AC32392368E31DF0F6B7F654409B2FD8307936881B509D4138D8CCFB967",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.fchatnet.minibrowser-884746FB9A47FE0819B334E1816BC1F66B9A42FA38AB51D53A68017DFEC1F73E",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.fuliangtech.searchbarwidget-8A9595FEBDC14E25CBF73776FB451DAC71BBD33DD87B9F00DC52931B4E69789F",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.intelligence.browser-72D54EC814B097B2474D6F849BD6CA6BA3946F8ABF9222FACD1DFE40DC5BA879",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.kk.browser-441A3059AC16F735023009A3A62AAD6AC62EA2045DC0378BE6A3DDA80A6E2386",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.lychee.browser-19A9B9CCA762E969313AE3A396CB54653D96357C7A96F38C0AE8C51ECB06EFAC",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.mmbox.browser-B25A39C629F48B5DD6CA07D0273869D938933797DBBB532694E8B57F2873B813",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.mmbox.browser-E24125085EBB600C12195E4EAABA3F3E808F8B466871DEE8D2609F80382644CA",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.mmbox.xbrowser.pro-967E3BB50BAA344CD33D4185A184BDBF91D7D759AC76C35B4229BC716145B98C",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.mogo.ppaobrowser-A7C4A4F2DCA92468330EC1F753B662E72A0C82CD8FFD04132B02F1E5B2E40890",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.mx.browser.tablet-4B7A5F1057A62BAC040F4D249AEA0A16F7077F500F482C2BAD2B1ECDABFB74DE",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser-3D807F30D9BF3BA28254960A1ED105F94DED7326C2677E5A16112B14E4F12416",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.prism.download.incognito.private_browser.browser.cn-AB5ED1145301C784D28583537810A6CF11243B234DD62465AAC2C91634A21DDD",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.rshealth.browser-D5EFBB69BB4D3B0718DEE3571978D06795B2B5E6CFDA8B1A8EEF982C609A1DC4",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.seven.cat.browser-0E676EEA9051C5E9A2376BD88265EBD61B9CCBF4F8CC260CD9428B79B6E12615",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.sjwyx.browser-17E22625A0BABC1A56C4975E9A287054062DB8800891F6FE13D243EEB00CE130",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.smallpig.browser-E13362C8CAC9617A6BE13F9AB8608B75F635F35B7BD7EAB7863706746BF2CCFF",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.smtcdev.ut-057E497F7564DE785A79EB60E7644A926780CE96B3CA613632DC7A142627108B",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.tompod.pocketbrowser-1553BCE38B65FC36A62B2D354F3CDAC7500F5CB5A7631A72273E93F012BCD4A7",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.xbrowser.play-A6617ACAA1A6B317623C87055EB42111048A2FCB03B7E42F48E6930D46C451B2",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.xf.browser-EFD9DBE2909331B3FC1AB2BF73A7F72E6EAD40A9B5DB29965E39486968B340DE",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.xhbajgo.xnbwriu-777F91CD3E414A9E4997765C7B139BB1707E337FCB6C3F427CE6F53C2002F360",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.yandex.browser.lite-9273F24C0D80D21264E4AAA908E73499A88D6D0200CC8379C076EF6656D801F7",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.yinghe.navigaion-BFDE6D2F262358967C54A59C6A213F6ADD29CF8E1DA51E421AF60A9E35A45EF9",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.zhongniu.browser-6726C88355254676B01DBA746FDC569FA128E97701A6A11058E1D6763297F510",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "cyx.browser-07F531C988D9317ADD626D986580A3261F6840D4E4D9D17F2C6596830FA468A9",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "easy.browser-1BA13F89877003729196622BA5E72A4B162103527803C6A82AE623DA6734ED08",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "easy.browser.free-E15CCE198F9654A5F77594D8C3747C1A6A79CF6422DA48218E0ACB8E93E8F936",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "fast.secure.light.browser-E0290FDC40899C21A15310A45368C94E078519E664681A2E161F7DD799676DB4",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "gpc.myweb.hinet.net.PopupWeb-3A5C9F03F0CB03A36F63B26A0628E09A5797AB0F589882E652AC4DE8E3D93BDD",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "mark.via-772AA39E2303F48AB85DF27D19FEBEAF6BBD8E803C202FB02D6A8F8133F5564A",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "mark.via-CCE6EFB252148CB52775FCFA71E5A71E38BEFADD5D311BABC40571E11579A1B8",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "mime.quick.fast.sec.browser.internation-4290764B02E25AF48903F1AAC1DB895ABBB7B2959F6D3FE42281910324B70E31",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "mixiaba.com.Browser-F2DD0A8D63E216CAA2EB870C7221B382CEAC649D2BFFFB5EFBD387B78D3F6406",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "net.rocket.browser-6CCCEB62765546EAD7437282A669BA55E310AB5402F08BE07E08872351AB2A42",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "nu.tommie.inbrowser-3FD6FB07034A372BFFC7BBA70ECD8A47103FB5A47BF884B4B131AA357653502A",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "org.noear.h5-E07869B56A173A876A82CE9B9806408259828BC11FEC0974C5E04134D8FD83DA",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "pcr.browser.polarity-C067E94CA488253B9EABF5C7D23B2AF6E9B4B437D4B9EA875A4ADE3287A3BD56",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "pro.browser.speedbrowser7g-A4486A1267FA7AA862273E0796FDB2FC32967EB08ED59EDE046D9AB7B136986C",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "pure.lite.browser-6332403CD8A41A5076FF37C7E2F9CDEF8A8EE19449DDE7D3D9253CD45FF05890",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "tools.browser.webbrowser-F2FF544A54BBA2C0E47AB8458E2E518F2045E34523FA3D7C06493F298D37AA36",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "tr.abak.simsekTarayici-2FE82E9C757697EF9B92C0D59B2F51AD6F8C21DBEDA9BB19172DB7F0B1BE7520",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "wd.indian.browser-4590A304049D86CE5F11FBCABBCFB131EE19DA1806C9AB7EA3CFFD3F6211F8D2",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.baidu.searchbox.lite-3FAB00FAA6732F2D8E5C4627A3825CA982A651F144F3EDAB1069916C2494475D",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.cryptotab.android-D6F5D4E43AC431D3004142D1C479B9A47CCA7E28FF4E0CD1448E8F4000EDFD03",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.juzi.browser-E2E9495CBE15093EEB63CE4BABF09F14103A2E03CB55CFB4758825D69DBCCC0D",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.microsoft.emmx-DA47C14BB3F0DD9F7D5871C8FCCBA50C7731F71C4E1E1E630E023FA43CCC5E7F",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.uc.browser.en-62D33B9516CA62272208EDDA2B80DEBC8F2C534D86C1F048ECC3B2198A8AEC3C",
+      {
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "browser4g.fast.internetwebexplorer-55FC1DA4FC25476973584A715671369CD7E6271CB6823C4835E09205523BABF6",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.chimbori.hermitcrab-F4DFA0948478D02B8B15DF4B8183F817C04214D99D156D7CA9AA61E0251C31C9",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.fevdev.nakedbrowser-21F2FE839C1AB355B63089214F7239CE8941F28AB846CAD4EBFAF9F1CC660047",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.fulldive.mobile-9AE878EAFE19081CCBC9BBAA682EE57FF92B06326F6C5A29280BF381EA094779",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": 0,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1.0
+      }
+    ],
+    [
+      "com.ume.browser.cust-B034E41CD6386F4AD38AD117B31DFEEB99B5CD03495850C90469BF95643B7B6A",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "hero.browser4g.internet-B098829442C697A3C289D6E8D4C82CA8FB41547A9952FDEF52D4578595189DCC",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "internet.webbrowser.explorer-3FCEA90DB76FEBAC1B3EB1D2668969FED07D69C6F052DDD7B80ACD678AE62E78",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "webexplorer.amazing.speed-86AD38C5EC7229F9358C97C42285C926E91DAAA3C45A2295ABEC3EEDCE78DB94",
+      {
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.cubicnumber.chrome-E09B3C1EC2B199138F11777E9C843CAD3562EBEB389DF3DB5AA966CB5ABBD99D",
+      {
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.getfilefrom.browserdownloader-E8F2E000E028ED7607EE60445C0294164122C3D508C3CE39123AB804575FA18F",
+      {
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.renyu.speedbrowser-D0F489F109CE686F7D5426345CE2E5D329F71C3C337FBD4AF3CAACD2BACC269F",
+      {
+        "PII Exposure": -0.22857142857142856,
+        "PII Exposure_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "browser.internetbrowser.browsergo.browsergomini-3340CF82A2FFB3165CE542C46C40E23EFEF8EEC4F732A7D69A54464A409AB734",
+      {
+        "History Leak": -0.9230769230769231,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.orbitum.light-066F57A9CAE649BF77B5104A250D87F2F01F1328E6D80CC68691C02A56AEE41C",
+      {
+        "History Leak": -0.9230769230769231,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "web.browser.dragon-A2D3A775B678E9980554A475BA303B007FB2FCEE2E75878F502EF791A6A9304F",
+      {
+        "History Leak": -0.9230769230769231,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.fanghenet.dotbrowser-B0D82EE45CA993DF78E43A2668BE770FBCA8E1252AE3BE03D11A48E37302E793",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.mogubrowser-2F9EC23DB5074A4222B919EA439673D8D7044A0C8265D24A6872F2FB61DA2C7B",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.mx.browser-7A9D46421FD63B5011608343BC829BA9D8D0FF661E0DE3E2808D9343993D81B4",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.mx.browser-DA265BDC734002B6D2938C72F3CFCF875C8C0D67F37648BA64C2D38B6E137D28",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.rsyastudios.ncbrowserfree-5B74C68204BAB7535F8B73A1869800EB33957BB01B5AA58FC05C942D73C319E8",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.secapps.litebrowser-BE0FFFA317EF31F2B237BF69017D8D5F0E047AE8E6C35BC79B85C5163F57577E",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.szcx.fbrowser-FD0913A65788C687EC8D9C7EA00855BB48D8EE43CBE8A8B1EBF9700B978761A6",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.tencent.mtt-6AFE53A2403893F9C6A90562D1A1BEFFDE7F8A03AC3A84D8537922644CE91507",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.vnspeak.vbrowser-AE10C4AA858B4BA73D4EEB3B44D5A2AAC88304640ED9A31B138921E3F7347290",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "org.xbrowser.prosuperfast-06ECAFFFBC87B16296A7923C49E67CC7965DCC7829E1D428294C30CBAE01EA9F",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "org.zbrowser.ui.activities-39CE36FFBF9751412B21B6B6A5CEB6AC32CF8D49E48A2D6B1980FF8FE16B9A73",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "webbrowser.explorer.fast-B729A608FC851665E00DE33661B9B9960EE4D5DC2359531004685473930C0599",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.stealthmobile.browser-EA52E0875C94F94BDA7607BDB665F34DB31719D6F8FAD854952CCB18F04F0EC8",
+      {
+        "History Leak": -0.6153846153846154,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1.6153846153846154,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "ru.mail.amigo-B86246C7A915D10DE01C4F8CF486D8D7C2ECC680BB0A412F84259B59EF33BD17",
+      {
+        "History Leak": -0.7692307692307693,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.22857142857142856,
+        "PII Exposure_bottom": -1.7692307692307692,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.truefruit.browser-1ED126AEBAAFD36D1A733F882606449CD3452E565B87611F05FE34629EA245A8",
+      {
+        "History Leak": -0.9230769230769231,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -1.9230769230769231,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "indian.browser.indianbrowser-1845E948DB9D4935716B51B9532363227348DA3B7D7D932A7B06C2C42CF8616E",
+      {
+        "History Leak": -0.9230769230769231,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -1.9230769230769231,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.microsoft.intune.mam.managedbrowser-3A659D71B69FEBA70B75A19B875F2CD51D6E48E0BEDB43C494BF4B05BFC83751",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -2,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.qihoo.browser-EFFDF2E93B731E25862B2F7BA07D58447C2FB7D5ACEBD4BA2F1A02E0D00C4E46",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ucool.browser-F1F073C5B3E5DCFCAC8ED06D3E3766784C08A97190D5FC993F88E81CF5FAA2E4",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -2,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.z28j.feel-EB1DA8A113924A80383947A9478AE1395065F9C0D37BF67CADB911049A77CDB3",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -2,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.Explorer.SKEmpires-885FB0D2AF649B6E0BBB36FDFCF4A0E2B5631B6CFB8B9851E3147D2E21F235DE",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.alohamobile.browser.lite-DB7BAF171C289263F5067CF3F0FC66557F83BAAE13367C181CAF19DADD23F72D",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.blacklion.browser-9D862AE25B6C96513D104354C2919F8C60608337F298FDF59565FE7BA5D322D6",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.browser.insta.app.downloader-F84F3049C62191D760B1DE09D550BF2745262CF18E5D037862EA0DEA817BF0A0",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.browser.internetwebexplorer-92B2A5D7EE60564F79992BDF62291870E32D83D9AC050124DF5077AF6A4BEE36",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.eagle.web.browser.fast.privacy.browsers.donwloads.free-4B557BD728EEAB51A6BD4B56B76EB8A3682796DC66EAA83D2AF53CB7BAA350A8",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.hypersonica.browser-DF4D34B7315716B899261E44288176392D2C7443C86A68C9CBFDF61EDB917107",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.kiddoware.kidsafebrowser-7F27DB70DE3455A0DC4195C80E3AA53C87C7644ABEEE0B7BCBA0F561B54C0C78",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ksmobile.cb-4FA8946E2D1E638B8DD335C88D897768EC22CF33C8CB6D26F9104D730CB20661",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.opera.browser-356D9ED7842313F03EE41EB5CF0F03D231C6D4762FEFDC90DA490806BD79AE5F",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.opera.browser.beta-EC70B51D8F3D161BA7DF778C9CC6254679EE1CD1DAB66E42FE9FE675D07D4D0F",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.prbstudios.firebird-5B69C2D24F929C919B3C0719160DCAF8BC831A608A54F45A094E69A5478888C6",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ucimini.internetbrowser-7BF25D3C9B77C20461B31F4CB18D173E3DBFDA88CB8B7F22F7049B65341833BD",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.wMOONBrowser_9058036-F4EA579D41BD82CEA4800ADB1D58B1DE90B9F893D840768533049D98B8285BDA",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.webbrowser.unblock.vpnbrowser.browserproxy-0A14C7CC28FC845907BE5F85526D27F3DB1E4DEFAC1EB0A0FEEA76F63215F047",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "info.bite.speedbrowser-97A458677229BBFB86203F08B139EEE5C4900C6FD6DDDE2F09FB0E099866F8CA",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "newweb.explorer.fastbrowser-751E02A9364B17F5A7F383A54289FE6081FFC50A03F4A7F807EEFB4D3489F75B",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "plus.browser.speedbrowser7g-5672BBBF4F904A5CEA9F9AA8EBED829C003BBB72195A48DC637C5BF064521747",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "reactivephone.msearch-12FAE15A75ECBC751F5444871D19860526B75BC0B70F1015B227B7A040D89FFA",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "studio.mobile.trust.browser-38D16F096549B6AB081A9030A74D9F8FEBB0F8C51D30D6C879497B3D8CFBED50",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "web.explorer.fast.internetbrowser-AC881FE9CFCC86B7597E5B113DC00A606F949AF38D7988AD7C2739846C869107",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "cn.nr19.mbrowser-123EFCE62C15A4A254603295552D768162553F6641481C0592AA7E5D4283B61C",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": -2,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.orbitum.browser-782DB1DEFD2C14A76B481349E8BEA568517024199369D5B6EE4B5D07959F1D7D",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.robinapps.speedbrowser-4DA0B9EB021CAC800836C3B09FE67A79D756FFB18C2408C951604ADCB76829BE",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": -2,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.web.miota.browser-C61BFAFA626479D97B4D7F8B1F6645D60BCCC3871BB3FCCA4A605C2FECEA371A",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.witknow.witbrowser-F0B64DF8D608B4C687FAD31295666564C8B0CBFB562B2C8CCA6F81EA0017EDE8",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": -2,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.ucturbo-C50053BD543C9B5F7856594BD0A862208519698CAEC16817FE8A470869390F7B",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.22857142857142856,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "in.pokebbrowser.bukablokirsitus-7DA067E61EC8FF1ABD25731737E3924076DE546FE9D1A847FE90F69EBCFBD074",
+      {
+        "History Leak": -0.9230769230769231,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.14285714285714285,
+        "PII Exposure_bottom": -1.9230769230769231,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.example.zzb.txweblibrary-AB063CB34FE73AACA199A400132DA7DEA7E0EAA21CAD0FA4043802E8C7716C45",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -2,
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0,
+        "Script blocking": 1,
+        "Script blocking_bottom": 0
+      }
+    ],
+    [
+      "com.baidu.searchbox-CD269D2FAAB8112B7CBB6CFCD1D206A48C787652C0FCA8A4F445F001EF22F186",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.xiaoniu.browser-D75B12FD327E48CC0556FBA0F4449650560E9A588722A0B0125114DA4C416D7A",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "PII Exposure": -0.05714285714285714,
+        "PII Exposure_bottom": -2,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.hiwapps.browser-F285BC89F4CD2D652229ABA2B23CA78BD6F017B31FC7447B6BA0636611ACF641",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.kwah.privatebrowser-95AF0835FB8B75447D77001F032C3D69D246C9BAD550AF31C6E4618CB146E7AE",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.tt.android.dm.view-2BDB1E3FADB003686858062EB2D2F9C569CDFA3D4CA744FC98C858F07E32D731",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.yandex.browser-AC108AF7BD2C0BF6ABC5D257F05B2FCE90019F278EE9907BB70C64CC37D6E55C",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.yandex.browser.beta-3CE1AED2CAEB954DE914D0BA178F122BBBBEBFB86C2528E2A0D4E9A642BFD20D",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "lightweight.iostheme.fastinternet.webbrowser-E99E633707698EB985907A412961B76BE6E6537BEC427CECFE19E7E61248EC1E",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "savannah.internet.web.browser-3D0FECC2CEE41F0A5805D5A51424D850D04FEA449375ADBB9DE9459108E7C31C",
+      {
+        "History Leak": -1.0,
+        "History Leak_bottom": -1,
+        "PII Exposure": -0.08571428571428572,
+        "PII Exposure_bottom": -2.0,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ],
+    [
+      "com.shenyou.mobile-6F47BC060F41FC4A2329786E632B7E2176B98D54F5AC6ACF0FED41175CBB8005",
+      {
+        "No TLS validation": -1,
+        "No TLS validation_bottom": -1,
+        "PII Exposure": -0.22857142857142856,
+        "PII Exposure_bottom": -2,
+        "Request blocking missed": -1,
+        "Request blocking missed_bottom": 0
+      }
+    ]
+  ],
+  "removed": 0
+}
